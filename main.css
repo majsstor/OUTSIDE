@@ -1,0 +1,51 @@
+      
+body {
+  background: url("../OUTSIDE/images/maja.jpg") no-repeat center center fixed; 
+  background-size: cover;   
+} 
+
+h1 {
+    color: white;
+    margin-bottom: auto;
+    margin-top: auto;
+    text-align: center;
+    font-family: "Lucida Sans Unicode";
+    }
+
+h2 {
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-family: "Lucida Sans Unicode";
+    }
+
+hr { 
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+}
+
+a {
+  text-decoration: none;
+  padding-left: 10px;
+  color:white;
+  font-size: 22px;
+}
+
+#Ministarstvo {
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+    
+    
+    
+
